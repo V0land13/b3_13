@@ -1,4 +1,4 @@
-# импортируем нужные классы из созданного модуля html_tags.py, ледит в той же директории
+# импортируем нужные классы из созданного модуля html_tags.py, лежит в той же директории
 from html_tags import TopLevelTag
 from html_tags import Tag
 from html_tags import HTML
